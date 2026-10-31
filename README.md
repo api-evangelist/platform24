@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Platform24 is a company surfaced via the API Evangelist harvest backlog (source: swedish-healthcare) and added to the network as a stub for full-pipeline profiling.
-- https://platform24.com/
+Platform24 provides an intelligent care platform that connects patients, providers, and health systems through digital intake, triage, virtual clinics, care plans, and analytics. The solution enables seamless access, continuity, and sustainable delivery of healthcare services across primary, specialist, and hospital settings, supporting multilingual experiences and integration with insurance and health data ecosystems.
+
+**Areas:** Healthcare · Digital Health · Platform · Patient Engagement · Company
+
+## Platform24 on APIs.io
+
+Everything profiled for Platform24 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/platform24/](https://apis.io/providers/platform24/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Platform24 Activities API](https://apis.io/apis/platform24/platform24-activities-api/) — The Activities API from Platform24 — 1 operation(s) for activities.
+- [Platform24 Data Collect API](https://apis.io/apis/platform24/platform24-data-collect-api/) — The Data Collect API from Platform24 — 2 operation(s) for data collect.
+- [Platform24 Front Door Connect API](https://apis.io/apis/platform24/platform24-front-door-connect-api/) — The Front Door Connect API from Platform24 — 2 operation(s) for front door connect.
+- [Platform24 Sso Url API](https://apis.io/apis/platform24/platform24-sso-url-api/) — The Sso Url API from Platform24 — 1 operation(s) for sso url.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [GetClientidActivitiesV1Response](https://apis.io/schemas/platform24/platform24-get-clientid-activities-v1-response/)
+- [PostClientidSsoUrlV1V1IdRequest](https://apis.io/schemas/platform24/platform24-post-clientid-sso-url-v1-v1-id-request/)
+- [PostClientidSsoUrlV1V1IdResponse](https://apis.io/schemas/platform24/platform24-post-clientid-sso-url-v1-v1-id-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Platform24 Context](https://apis.io/jsonld/platform24/platform24-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Platform24 Openapi Overlay](https://apis.io/overlays/platform24/platform24-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Platform24 API Rules](https://apis.io/rules/platform24/platform24-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Platform24 Authentication](https://apis.io/security/platform24/platform24-authentication/)
+- [Platform24 Domain Security](https://apis.io/security/platform24/platform24-domain-security/)
+- [Platform24 Trust Center](https://apis.io/security/platform24/platform24-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://platform24.com/)
+- [Documentation](https://docs.platform24.com/)
+- [Getting started](https://platform24.com/about-us/)
+- [Support](https://platform24.com/contact-us/)
+- [Compliance](https://platform24.com/products/compliance/)
+- [Privacy policy](https://platform24.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 31.0** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 20.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 26.3 |
+
+**Agent readiness 18.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 20.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/platform24/](https://apis.io/providers/platform24/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Platform24: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/platform24/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
